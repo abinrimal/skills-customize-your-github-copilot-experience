@@ -79,5 +79,30 @@
         }
       ]
     }
+    ,
+    {
+      "id": "supervised-ml-classification",
+      "title": "Supervised Machine Learning — Classification",
+      "description": "Build and evaluate a binary classifier using scikit-learn; feature engineering, cross-validation, and interpretation.",
+      "path": "assignments/supervised-ml-classification",
+      "dueDate": "2026-06-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sample_data.csv",
+          "type": "csv"
+        }
+      ]
+    }
   ]
 }
